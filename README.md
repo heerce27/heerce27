@@ -89,9 +89,37 @@ Building Better Real-World Projects 🚀
 
 ## 🏆 Hackathons & Activities
 
-### 🚀 Odoo Hackathon
+### 🚀 Odoo Hackathon — 2026
 
-Participated in an **8-hour Odoo Hackathon**, working with a team to build and submit a working project under a strict time constraint.
+Participated in an **8-hour Odoo Hackathon**, working with a team to build and submit a project under a strict time constraint.
+
+### 🧠 CVMU Hackathon
+
+Collaborated with a team to develop a **quiz and learning website for students**, focusing on creating an interactive platform that could make student learning more engaging.
+
+This experience helped me understand the process of turning an idea into a working web project while working as part of a team.
+
+### ♻️ Smart Waste Management — SIH 2025
+
+Participated in **Smart India Hackathon 2025**, where our team worked on a **Smart Waste Management website**.
+
+This was an important early project in my development journey. The final project was not as polished as we wanted, but it gave me valuable hands-on experience with **team collaboration, web development, Git/GitHub, problem solving, and working under competition deadlines**.
+
+> 🌱 *Not every project has to be perfect. Some projects are valuable because of what they teach you.*
+
+---
+
+## 🌱 My Learning Journey
+
+From academic projects to hackathons, I've been using every project as an opportunity to improve.
+
+**SIH 2025** → First major hackathon experience
+↓
+**CVMU Hackathon** → Building an educational platform
+↓
+**Odoo Hackathon** → Working under an intense 8-hour deadline
+↓
+**Current Projects** → Building more complete and practical solutions 🚀
 
 ### 💡 Project-Based Learning
 
