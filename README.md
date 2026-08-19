@@ -78,7 +78,6 @@ Building Better Real-World Projects 🚀
 | Project                                  | Description                                                                                                  | Technologies                            |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------- |
 | 🎓 **StudentHub Portal**                 | Student-focused portal with authentication, dashboard, events, profile and interactive UI                    | HTML, CSS, JavaScript, PHP, MySQL       |
-| 🚨 **ResQNet**                           | Smart Disaster Rescue & Management System for emergency reporting, rescue coordination and disaster response | Web Development, PHP, MySQL, JavaScript |
 | ❤️ **Cardiovascular Disease Prediction** | Machine-learning project focused on predicting cardiovascular disease using health-related data              | Python, Data Science, ML                |
 | 📚 **Library Management System**         | System for managing library resources and operations                                                         | Programming, Database                   |
 | 🌱 **IoT Greenhouse Controller**         | IoT-based project for monitoring and controlling greenhouse conditions                                       | IoT, Sensors, Programming               |
