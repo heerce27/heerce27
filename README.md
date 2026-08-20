@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Heer Shah
 
-### 💻 Computer Engineering Student | Developer | Data Science & AI Enthusiast
+### 💻 Computer Engineering Student | Data Science & AI Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Building+Real-World+Projects;Exploring+Data+Science+%26+AI;Learning+DSA+%7C+Web+Development+%7C+Java" alt="Typing SVG" />
